@@ -14,34 +14,12 @@
 <br>
 
 ## :orange_book: 파일 및 폴더 구조
-- 자료구조[DS], 알고리즘[AL], 문제 풀이[PS]는 각각 폴더를 구분해주세요. 문제 풀이[PS]의 경우, 플랫폼으로 폴더를 한 번 더 구분해주세요.
-- `이름/카테고리/플랫폼/주제or문제or숫자` 형식으로 업로드해주세요.
-> 예시 01: /EunjiShin/DS/Stack.java <br>
-> 예시 02: /EunjiShin/AL/Greedy.java <br>
-> 예시 03: /EunjiShin/BOJ/17497-계산기.java <br>
-> 예시 04: /EunjiShin/programmers/level01-Test.java <br>
+[여기](https://github.com/TecheerB/Java_Algorithm/wiki/%ED%8C%8C%EC%9D%BC-%EB%B0%8F-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0)를 참고해주세요!
 
 <br>
 
 ## :ledger: PR 양식 
-### 1. PR 규칙 & Commit Message 
-- Pull Request 전, 자신이 딴 fork한 저장소의 커밋 내역을 `원격 저장소의 최신 커밋`으로 `fetch & merge` 한 이후에 PR을 진행해주세요.
-- Commit Message는 `[날짜]문제 이름 or 주제` 형식으로 업로드해주세요.
-> 예시 01 : [210829] 계산기 <br>
-> 예시 02 : [210830] 다익스트라 알고리즘 <br> 
-
-### 2. PR 제목
-- `[주제]제목 label: 문제 출처(PS일 경우), 난이도(옵션)`
-- <img width="216" alt="스크린샷 2021-10-25 오전 4 03 49" src="https://user-images.githubusercontent.com/38103085/138608842-60bb4fcf-8df2-4d83-bd89-30fdaeed8ac1.png">
-
-- `여러 커밋을 한꺼번에 PR할 경우, [n주차] label: 주제, 문제 출처, 난이도(옵션)`
-- <img width="251" alt="스크린샷 2021-10-25 오전 4 01 17" src="https://user-images.githubusercontent.com/38103085/138608758-cae016a1-0e0d-49f7-8cbf-41ef522ccd1c.png">
-
-### 3. PR 라벨
-  1. 문제 출처 : BOJ, Programmers, leetcode, codility, ....
-  2. 주제 : DS, AL, PS
-  3. 난이도 : EASY, NORMAL, HARD
-  4. reviewer (옵션) : 이미 동일한 문제를 푼 팀원이 있을 경우, 리뷰를 요청하고 싶다면 지정
+[여기](https://github.com/TecheerB/Java_Algorithm/wiki/PR-%EC%96%91%EC%8B%9D)를 참고해주세요!
 
 <br>
 
