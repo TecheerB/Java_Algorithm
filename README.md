@@ -33,12 +33,9 @@
 ### 2. PR 제목
 - `[주제]제목 label: 문제 출처(PS일 경우), 난이도(옵션)`
 - <img width="216" alt="스크린샷 2021-10-25 오전 4 03 49" src="https://user-images.githubusercontent.com/38103085/138608842-60bb4fcf-8df2-4d83-bd89-30fdaeed8ac1.png">
-> 예시 01: [DS] 스택 label: EASY <br>
-> 예시 02: [PS] 계산기 label: BOJ, EASY <br>
 
 - `여러 커밋을 한꺼번에 PR할 경우, [n주차] label: 주제, 문제 출처, 난이도(옵션)`
 - <img width="251" alt="스크린샷 2021-10-25 오전 4 01 17" src="https://user-images.githubusercontent.com/38103085/138608758-cae016a1-0e0d-49f7-8cbf-41ef522ccd1c.png">
-> 예시 01: [1주차] label: DS, AL, PS, 백준, 프로그래머스, EASY <br>
 
 ### 3. PR 라벨
   1. 문제 출처 : BOJ, Programmers, leetcode, codility, ....
