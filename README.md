@@ -45,8 +45,8 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 |
 | --- | --- | --- | --- | --- | --- |
-| EunjiShin ||||||
-| RyanLee ||||||
+| EunjiShin |(사유O|||||
+| RyanLee |:white_check_mark:|||||
 | GnuPark ||||||
 | YoungjinShin ||||||
 
