@@ -31,11 +31,11 @@
 
 |일정|필수 주제|선택 주제|EASY|NORMAL|HARD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1주차 <br> (10.25 ~ 10.31)|정렬 <br> (정렬 알고리즘 <br> & 시간 복잡도)|스택/큐|[K 번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748), <br> [수 정렬하기](https://www.acmicpc.net/problem/2750), [세 수 정렬](https://www.acmicpc.net/problem/2752)|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746), [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747), [시리얼 번호](https://www.acmicpc.net/problem/1431), <br> [공통 순열](https://www.acmicpc.net/problem/1622), [K번째 수 찾는 함수](https://www.acmicpc.net/problem/16455)|[전화번호 목록](https://www.acmicpc.net/problem/5052), <br> [버블 소트](https://www.acmicpc.net/problem/1377)|
-|2주차 <br> (11.01 ~ 11.07)|해시|힙||||
-|3주차 <br> (11.08 ~ 11.14)|완전 탐색|이분 탐색||||
-|4주차 <br> (11.15 ~ 11.21)|DFS/BFS|그래프||||
-|5주차 <br> (11.22 ~ 11.28)|DP|Greedy||||
+|1주차 <br> (10.25 ~ 11.7)|정렬 <br> (정렬 알고리즘 <br> & 시간 복잡도)|스택/큐|[K 번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748), <br> [수 정렬하기](https://www.acmicpc.net/problem/2750), [세 수 정렬](https://www.acmicpc.net/problem/2752)|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746), [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747), [시리얼 번호](https://www.acmicpc.net/problem/1431), <br> [공통 순열](https://www.acmicpc.net/problem/1622), [K번째 수 찾는 함수](https://www.acmicpc.net/problem/16455)|[전화번호 목록](https://www.acmicpc.net/problem/5052), <br> [버블 소트](https://www.acmicpc.net/problem/1377)|
+|2주차 <br> (11.8 ~ 11.14)|해시|힙|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576), <br> [Duplicates](https://www.acmicpc.net/problem/15098)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577), [위장](https://programmers.co.kr/learn/courses/30/lessons/42578), <br> [숫자 카드2](https://www.acmicpc.net/problem/10816), [듣보잡](https://www.acmicpc.net/problem/1764), [비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579), <br> [친구 네트워크](https://www.acmicpc.net/problem/4195)|
+|3주차 <br> (11.15 ~ 11.21)|완전 탐색|이분 탐색||||
+|4주차 <br> (11.22 ~ 11.28)|DFS/BFS|그래프||||
+|5주차 <br> (11.29 ~ 12.5)|DP|Greedy||||
 
 <br>
 
@@ -45,7 +45,7 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 |
 | --- | --- | --- | --- | --- | --- |
-| EunjiShin |(사유O|||||
+| EunjiShin |:white_check_mark:|||||
 | RyanLee |:white_check_mark:|||||
 | GnuPark ||||||
 | YoungjinShin ||||||
