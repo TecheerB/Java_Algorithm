@@ -1,0 +1,5 @@
+implemented with normal sort - bad time complexity
+the question is asking for a code that works in less than 0.2s. 
+need to work with quick selection instead. - similar to quick sort.
+
+
