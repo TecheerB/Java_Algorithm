@@ -1,4 +1,4 @@
-package programmers;
+package programmers.정렬;
 
 import java.util.*;
 
