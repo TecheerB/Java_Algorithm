@@ -35,7 +35,7 @@
 |2주차 <br> (11.8 ~ 11.14)|해시|힙|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576), <br> [Duplicates](https://www.acmicpc.net/problem/15098)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577), [위장](https://programmers.co.kr/learn/courses/30/lessons/42578), <br> [숫자 카드2](https://www.acmicpc.net/problem/10816), [듣보잡](https://www.acmicpc.net/problem/1764), [비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579), <br> [친구 네트워크](https://www.acmicpc.net/problem/4195)|
 |3주차 <br> (11.15 ~ 11.21)|완전 탐색|이분 탐색|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [블랙잭](https://www.acmicpc.net/problem/2798), [분해합](https://www.acmicpc.net/problem/2231)|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839), [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842), [숫자야구](https://www.acmicpc.net/problem/2503), <br> [퇴사](https://www.acmicpc.net/problem/14501)|[테트로미노](https://www.acmicpc.net/problem/14500), [치킨배달](https://www.acmicpc.net/problem/15686)|
 |4주차 <br> (11.22 ~ 11.28)|DFS/BFS|그래프|X|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165), [DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606),<br> [섬의 개수](https://www.acmicpc.net/problem/4963), [미로 탐색](https://www.acmicpc.net/problem/2178)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162), [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163), [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164), [연구소](https://www.acmicpc.net/problem/14502)|
-|5주차 <br> (11.29 ~ 12.5)|DP|Greedy||||
+|5주차 <br> (11.29 ~ 12.5)|DP|Greedy|[설탕 배달](https://www.acmicpc.net/problem/2839), [피보나치 수5](https://www.acmicpc.net/problem/10870), [피보나치 수2](https://www.acmicpc.net/problem/2748)|[1로 만들기](https://www.acmicpc.net/problem/1463), [1,2,3 더하기](https://www.acmicpc.net/problem/9095), [피보나치 함수](https://www.acmicpc.net/problem/1003), [RGB 거리](https://www.acmicpc.net/problem/1149)|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895), [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105), [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)|
 
 <br>
 
@@ -46,9 +46,9 @@
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 |
 | --- | --- | --- | --- | --- | --- |
 | EunjiShin |:white_check_mark:|:white_check_mark:|:white_check_mark:|||
-| RyanLee |:white_check_mark:|||||
-| GnuPark |:white_check_mark:|:white_check_mark:|:white_check_mark:|||
-| YoungjinShin |:white_check_mark:|:white_check_mark:||||
+| RyanLee |:white_check_mark:|:white_check_mark:|:white_check_mark:|||
+| GnuPark |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
+| YoungjinShin |:white_check_mark:|:white_check_mark:|:white_check_mark:|||
 
 <br>
 
